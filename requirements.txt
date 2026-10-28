@@ -1,0 +1,4 @@
+python-telegram-bot==22.8
+httpx
+python-dotenv
+Telethon==1.45.0
